@@ -1,5 +1,5 @@
 # otus-qa-course-dz3-contextmanager
 This repository is for learning context managers using
 ------------
-To run script for filling result.json file with books and users run script: 
+To run script for filling result.json file with books and users use command: 
 $ python context_manager.py 
