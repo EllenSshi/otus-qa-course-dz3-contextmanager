@@ -18,6 +18,3 @@ def add_users_and_books_into_result_file(rfile):
 if __name__ == '__main__':
     result_file = 'result.json'
     add_users_and_books_into_result_file(result_file)
-    with open(result_file, 'r') as result_reader:
-        content = result_reader.read()
-        print(content)
